@@ -38,3 +38,4 @@
 - [Visual Studio Code](https://code.visualstudio.com)
 - [GitHub](https://github.com)
 - [Git](https://git-scm.com)
+- [Figma](https://www.figma.com)
