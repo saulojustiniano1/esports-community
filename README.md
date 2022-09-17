@@ -26,6 +26,8 @@
 
 📦Projeto desenvolvido no evento da **NLW eSports** na _Trilha Explorer_.
 
+> **Link do projeto:** [📤Clique aqui para acessar](https://saulojustiniano1.github.io/esports-community)
+
 ###
 
 **✏️Linguagens:**
@@ -36,6 +38,5 @@
 **🚀Tecnologias:**
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [GitHub](https://github.com)
-- [Git](https://git-scm.com)
+- [Git](https://git-scm.com), [GitHub](https://github.com)
 - [Figma](https://www.figma.com)
